@@ -1,0 +1,19 @@
+body {
+  background-color: darkslategray;
+}
+
+h1 {
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+}
+
+ul a {
+  color: white;
+  text-decoration: none;
+  font-variant: small-caps;
+  font-size: 20px;
+  text-shadow: 2px 2px 2px rgba(0, 0, 0, .4);
+}
